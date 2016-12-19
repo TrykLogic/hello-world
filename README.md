@@ -1,2 +1,5 @@
 # hello-world
-First Repository
+
+Hello.
+
+Do not look for logic, where none exists.
